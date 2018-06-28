@@ -1,0 +1,33 @@
+{
+    "author": "aLeaf",
+    "dependencies": {},
+    "keywords": [],
+    "name": "tutorial-1",
+    "pebble": {
+        "displayName": "Tutorial 1",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/tconverted (1).png",
+                    "name": "RPI",
+                    "targetPlatforms": [
+                        "chalk"
+                    ],
+                    "type": "png"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "chalk"
+        ],
+        "uuid": "d3b90ca2-5746-4769-a75c-5c025e5fee0a",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
